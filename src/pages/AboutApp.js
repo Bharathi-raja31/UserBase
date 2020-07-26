@@ -30,7 +30,7 @@ const AboutApp = () => (
               <li>No class components used</li>
             </ul>
             <h2 id="demo-link">Demo Link</h2>
-            <p><a href="https://dreamy-turing-79842a.netlify.app/">https://dreamy-turing-79842a.netlify.app/</a></p>
+            <p><a href="https://determined-goldwasser-a2b6bd.netlify.app/">https://determined-goldwasser-a2b6bd.netlify.app/</a></p>
             <h2 id="instructions">Instructions</h2>
             <pre><code>npm install
 

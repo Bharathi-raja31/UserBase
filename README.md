@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Link
 
-https://dreamy-turing-79842a.netlify.app/
+https://determined-goldwasser-a2b6bd.netlify.app/
 
 ## Instructions
 ```
